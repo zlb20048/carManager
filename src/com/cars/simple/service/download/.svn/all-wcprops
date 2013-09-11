@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/project/!svn/ver/74445/client/park/source/server/carsclient/android/cars8_31/carsManager_new/src/com/cars/simple/service/download
+END
+ImageTask.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/project/!svn/ver/38962/client/park/source/server/carsclient/android/cars8_31/carsManager_new/src/com/cars/simple/service/download/ImageTask.java
+END
+GetServerImageProcessor.java
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/svn/project/!svn/ver/74445/client/park/source/server/carsclient/android/cars8_31/carsManager_new/src/com/cars/simple/service/download/GetServerImageProcessor.java
+END
+ImageObj.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/project/!svn/ver/38962/client/park/source/server/carsclient/android/cars8_31/carsManager_new/src/com/cars/simple/service/download/ImageObj.java
+END
+TaskListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/project/!svn/ver/38962/client/park/source/server/carsclient/android/cars8_31/carsManager_new/src/com/cars/simple/service/download/TaskListener.java
+END
+TaskExecutor.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/project/!svn/ver/38962/client/park/source/server/carsclient/android/cars8_31/carsManager_new/src/com/cars/simple/service/download/TaskExecutor.java
+END
+TimeOutTask.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/project/!svn/ver/38962/client/park/source/server/carsclient/android/cars8_31/carsManager_new/src/com/cars/simple/service/download/TimeOutTask.java
+END
+Task.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/project/!svn/ver/38962/client/park/source/server/carsclient/android/cars8_31/carsManager_new/src/com/cars/simple/service/download/Task.java
+END
+ImageDownload.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/project/!svn/ver/38962/client/park/source/server/carsclient/android/cars8_31/carsManager_new/src/com/cars/simple/service/download/ImageDownload.java
+END

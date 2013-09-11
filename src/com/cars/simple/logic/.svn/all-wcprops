@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/project/!svn/ver/75088/client/park/source/server/carsclient/android/cars8_31/carsManager_new/src/com/cars/simple/logic
+END
+DiscussRequest.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/project/!svn/ver/68554/client/park/source/server/carsclient/android/cars8_31/carsManager_new/src/com/cars/simple/logic/DiscussRequest.java
+END
+PromotionRequest.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/project/!svn/ver/38962/client/park/source/server/carsclient/android/cars8_31/carsManager_new/src/com/cars/simple/logic/PromotionRequest.java
+END
+RegisterRequest.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/project/!svn/ver/38962/client/park/source/server/carsclient/android/cars8_31/carsManager_new/src/com/cars/simple/logic/RegisterRequest.java
+END
+MessaageRequeset.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/project/!svn/ver/57505/client/park/source/server/carsclient/android/cars8_31/carsManager_new/src/com/cars/simple/logic/MessaageRequeset.java
+END
+FeedBackRequest.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/project/!svn/ver/38962/client/park/source/server/carsclient/android/cars8_31/carsManager_new/src/com/cars/simple/logic/FeedBackRequest.java
+END
+ViolationRequest.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/project/!svn/ver/47892/client/park/source/server/carsclient/android/cars8_31/carsManager_new/src/com/cars/simple/logic/ViolationRequest.java
+END
+Installer.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/project/!svn/ver/38962/client/park/source/server/carsclient/android/cars8_31/carsManager_new/src/com/cars/simple/logic/Installer.java
+END
+LoginRequest.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/project/!svn/ver/38962/client/park/source/server/carsclient/android/cars8_31/carsManager_new/src/com/cars/simple/logic/LoginRequest.java
+END
+UpdateRequest.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/project/!svn/ver/66761/client/park/source/server/carsclient/android/cars8_31/carsManager_new/src/com/cars/simple/logic/UpdateRequest.java
+END
+AccountRequest.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/project/!svn/ver/75088/client/park/source/server/carsclient/android/cars8_31/carsManager_new/src/com/cars/simple/logic/AccountRequest.java
+END
+CarTypeRequest.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/project/!svn/ver/70784/client/park/source/server/carsclient/android/cars8_31/carsManager_new/src/com/cars/simple/logic/CarTypeRequest.java
+END
+DefaultCarRequest.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/project/!svn/ver/59825/client/park/source/server/carsclient/android/cars8_31/carsManager_new/src/com/cars/simple/logic/DefaultCarRequest.java
+END
+MaintenanceRequest.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/project/!svn/ver/57505/client/park/source/server/carsclient/android/cars8_31/carsManager_new/src/com/cars/simple/logic/MaintenanceRequest.java
+END
+MagazineRequest.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/project/!svn/ver/38962/client/park/source/server/carsclient/android/cars8_31/carsManager_new/src/com/cars/simple/logic/MagazineRequest.java
+END
+CarInfoRequeset.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/project/!svn/ver/38962/client/park/source/server/carsclient/android/cars8_31/carsManager_new/src/com/cars/simple/logic/CarInfoRequeset.java
+END
+MainManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/project/!svn/ver/70525/client/park/source/server/carsclient/android/cars8_31/carsManager_new/src/com/cars/simple/logic/MainManager.java
+END
+CacheOpt.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/project/!svn/ver/70739/client/park/source/server/carsclient/android/cars8_31/carsManager_new/src/com/cars/simple/logic/CacheOpt.java
+END

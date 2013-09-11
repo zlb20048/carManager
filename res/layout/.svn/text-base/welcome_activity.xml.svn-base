@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:layout_gravity="center"
+    android:background="@drawable/welcome_bg"
+    android:gravity="center"
+    android:orientation="vertical" >
+
+    <RelativeLayout
+        android:id="@+id/flash_layout"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="90dip"
+        android:background="@drawable/welcome_text_bg"
+        android:visibility="invisible" >
+
+        <TextView
+            android:id="@+id/car"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dip"
+            android:layout_marginTop="5dip"
+            android:text="@string/welocome_car_title_str"
+            android:textSize="12sp" />
+
+        <TextView
+            android:id="@+id/carName"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/car"
+            android:layout_marginLeft="10dip"
+            android:layout_marginTop="2dip"
+            android:text="@string/welocome_car_title_str"
+            android:textColor="@color/white"
+            android:textSize="15sp" />
+
+        <ImageView
+            android:id="@+id/ding_image"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/carName"
+            android:layout_marginLeft="10dip"
+            android:layout_marginTop="15dip"
+            android:background="@drawable/ding" />
+
+        <TextView
+            android:id="@+id/give_up"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/carName"
+            android:layout_marginLeft="5dip"
+            android:layout_marginTop="15dip"
+            android:layout_toRightOf="@+id/ding_image"
+            android:text="@string/welocome_car_give_up_str" />
+
+        <Button
+            android:id="@+id/showNumber"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/carName"
+            android:layout_marginLeft="5dip"
+            android:layout_marginTop="12dip"
+            android:layout_toRightOf="@+id/give_up"
+            android:background="@drawable/red_bg"
+            android:clickable="false"
+            android:focusable="false" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/carName"
+            android:layout_marginLeft="5dip"
+            android:layout_marginTop="15dip"
+            android:layout_toRightOf="@+id/showNumber"
+            android:text="@string/welocome_car_py_str" />
+    </RelativeLayout>
+
+    <TextView
+        android:id="@+id/version_text"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/flash_layout"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="20dip"
+        android:gravity="center"
+        android:textColor="@color/black"
+        android:textSize="20sp" />
+
+</RelativeLayout>

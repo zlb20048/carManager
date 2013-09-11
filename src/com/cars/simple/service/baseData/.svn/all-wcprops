@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/project/!svn/ver/70525/client/park/source/server/carsclient/android/cars8_31/carsManager_new/src/com/cars/simple/service/baseData
+END
+SDUnavailableException.java
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/svn/project/!svn/ver/38962/client/park/source/server/carsclient/android/cars8_31/carsManager_new/src/com/cars/simple/service/baseData/SDUnavailableException.java
+END
+SDNotEnouchSpaceException.java
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/svn/project/!svn/ver/38962/client/park/source/server/carsclient/android/cars8_31/carsManager_new/src/com/cars/simple/service/baseData/SDNotEnouchSpaceException.java
+END
+FileHelper.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/project/!svn/ver/38962/client/park/source/server/carsclient/android/cars8_31/carsManager_new/src/com/cars/simple/service/baseData/FileHelper.java
+END
+RawTemplate.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/project/!svn/ver/70525/client/park/source/server/carsclient/android/cars8_31/carsManager_new/src/com/cars/simple/service/baseData/RawTemplate.java
+END
+SysConfProcessor.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/svn/project/!svn/ver/68488/client/park/source/server/carsclient/android/cars8_31/carsManager_new/src/com/cars/simple/service/baseData/SysConfProcessor.java
+END

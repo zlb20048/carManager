@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@drawable/bg"
+    android:orientation="vertical" >
+
+    <include
+        android:id="@+id/head"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        layout="@layout/top_layout" />
+
+    <LinearLayout
+        android:id="@+id/login_layout"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="5dip"
+        android:background="@drawable/gray_bg"
+        android:orientation="vertical"
+        android:visibility="gone" >
+
+        <TextView
+            android:id="@+id/text_view"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_margin="10dip"
+            android:text="@string/setting_2_str"
+            android:textColor="@color/white"
+            android:textSize="18sp" />
+
+        <TextView
+            android:id="@+id/user_name"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="10dip"
+            android:background="@drawable/white_bg"
+            android:gravity="center_horizontal"
+            android:singleLine="true" />
+
+        <LinearLayout
+            android:id="@+id/btn_layout"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="10dip"
+            android:gravity="center_horizontal"
+            android:orientation="horizontal" >
+
+            <Button
+                android:id="@+id/reset"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:background="@drawable/userbuttonbg" />
+
+            <Button
+                android:id="@+id/resetPwd"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="10dip"
+                android:background="@drawable/userbuttonbg1" />
+        </LinearLayout>
+
+        <RelativeLayout
+            android:id="@+id/citylayout"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:background="@drawable/m_list_bg" >
+            
+             <LinearLayout
+	            android:id="@+id/btn1_layout"
+	            android:layout_width="fill_parent"
+	            android:layout_height="wrap_content"
+	            android:layout_centerInParent="true"
+	            android:gravity="center_horizontal"
+	            android:orientation="horizontal" >
+	            <Spinner 
+				      android:layout_width="wrap_content" 
+				      android:layout_height="wrap_content" 
+				      android:id="@+id/province" 
+				      /> 
+				<Spinner 
+				      android:layout_width="wrap_content" 
+				      android:layout_height="wrap_content" 
+				      android:layout_toRightOf="@id/province" 
+				      android:id="@+id/scity" 
+				      /> 
+			</LinearLayout>
+            
+        </RelativeLayout>
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="10dip"
+        android:background="@drawable/gray_bg" >
+
+        <ListView
+            android:id="@+id/listview"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_margin="10dip"
+            android:background="@drawable/user_info_list_bg"
+            android:cacheColorHint="#00000000"
+            android:divider="@drawable/list_divider"
+            android:footerDividersEnabled="false"
+            android:paddingLeft="2dip"
+            android:paddingRight="2dip" >
+        </ListView>
+    </LinearLayout>
+
+</LinearLayout>

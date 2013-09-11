@@ -1,0 +1,413 @@
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/project/!svn/ver/74398/client/park/source/server/carsclient/android/cars8_31/carsManager_new/res/layout
+END
+magazine_activity.xml
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/project/!svn/ver/73138/client/park/source/server/carsclient/android/cars8_31/carsManager_new/res/layout/magazine_activity.xml
+END
+account_water_list_item.xml
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/project/!svn/ver/56418/client/park/source/server/carsclient/android/cars8_31/carsManager_new/res/layout/account_water_list_item.xml
+END
+message_list_item.xml
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/project/!svn/ver/47446/client/park/source/server/carsclient/android/cars8_31/carsManager_new/res/layout/message_list_item.xml
+END
+time_layout.xml
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/project/!svn/ver/55578/client/park/source/server/carsclient/android/cars8_31/carsManager_new/res/layout/time_layout.xml
+END
+single_list_item.xml
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/project/!svn/ver/51278/client/park/source/server/carsclient/android/cars8_31/carsManager_new/res/layout/single_list_item.xml
+END
+message_tab.xml
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/project/!svn/ver/47889/client/park/source/server/carsclient/android/cars8_31/carsManager_new/res/layout/message_tab.xml
+END
+login_acitivity.xml
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/project/!svn/ver/47889/client/park/source/server/carsclient/android/cars8_31/carsManager_new/res/layout/login_acitivity.xml
+END
+download_notify.xml
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/project/!svn/ver/38962/client/park/source/server/carsclient/android/cars8_31/carsManager_new/res/layout/download_notify.xml
+END
+violation_activity.xml
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/project/!svn/ver/47889/client/park/source/server/carsclient/android/cars8_31/carsManager_new/res/layout/violation_activity.xml
+END
+oil_item_layout.xml
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/project/!svn/ver/47455/client/park/source/server/carsclient/android/cars8_31/carsManager_new/res/layout/oil_item_layout.xml
+END
+magazine_tab.xml
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/project/!svn/ver/38962/client/park/source/server/carsclient/android/cars8_31/carsManager_new/res/layout/magazine_tab.xml
+END
+te.xml
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/project/!svn/ver/38962/client/park/source/server/carsclient/android/cars8_31/carsManager_new/res/layout/te.xml
+END
+promotion_list_activity.xml
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/project/!svn/ver/58664/client/park/source/server/carsclient/android/cars8_31/carsManager_new/res/layout/promotion_list_activity.xml
+END
+image_item.xml
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/project/!svn/ver/38962/client/park/source/server/carsclient/android/cars8_31/carsManager_new/res/layout/image_item.xml
+END
+account_detail_list_item.xml
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/project/!svn/ver/57503/client/park/source/server/carsclient/android/cars8_31/carsManager_new/res/layout/account_detail_list_item.xml
+END
+promotion_list_item.xml
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/project/!svn/ver/47455/client/park/source/server/carsclient/android/cars8_31/carsManager_new/res/layout/promotion_list_item.xml
+END
+list_foot_layout.xml
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/project/!svn/ver/38962/client/park/source/server/carsclient/android/cars8_31/carsManager_new/res/layout/list_foot_layout.xml
+END
+maintenance_spe_detail_activity.xml
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/project/!svn/ver/55482/client/park/source/server/carsclient/android/cars8_31/carsManager_new/res/layout/maintenance_spe_detail_activity.xml
+END
+account_total_activity.xml
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/project/!svn/ver/56418/client/park/source/server/carsclient/android/cars8_31/carsManager_new/res/layout/account_total_activity.xml
+END
+violation_detail_list_item.xml
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/project/!svn/ver/47889/client/park/source/server/carsclient/android/cars8_31/carsManager_new/res/layout/violation_detail_list_item.xml
+END
+change_pwd_activity.xml
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/project/!svn/ver/47455/client/park/source/server/carsclient/android/cars8_31/carsManager_new/res/layout/change_pwd_activity.xml
+END
+about_activity.xml
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/project/!svn/ver/63878/client/park/source/server/carsclient/android/cars8_31/carsManager_new/res/layout/about_activity.xml
+END
+message_detail_activity.xml
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/project/!svn/ver/57503/client/park/source/server/carsclient/android/cars8_31/carsManager_new/res/layout/message_detail_activity.xml
+END
+setting_acitivity.xml
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/project/!svn/ver/74033/client/park/source/server/carsclient/android/cars8_31/carsManager_new/res/layout/setting_acitivity.xml
+END
+feed_back_activity.xml
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/project/!svn/ver/47455/client/park/source/server/carsclient/android/cars8_31/carsManager_new/res/layout/feed_back_activity.xml
+END
+maintenance_detail_item_1.xml
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/project/!svn/ver/55579/client/park/source/server/carsclient/android/cars8_31/carsManager_new/res/layout/maintenance_detail_item_1.xml
+END
+maintenance_detail_item_2.xml
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/project/!svn/ver/55579/client/park/source/server/carsclient/android/cars8_31/carsManager_new/res/layout/maintenance_detail_item_2.xml
+END
+account_water_activity.xml
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/project/!svn/ver/55482/client/park/source/server/carsclient/android/cars8_31/carsManager_new/res/layout/account_water_activity.xml
+END
+reset_psw_activity.xml
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/project/!svn/ver/47889/client/park/source/server/carsclient/android/cars8_31/carsManager_new/res/layout/reset_psw_activity.xml
+END
+car_info_list_item.xml
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/project/!svn/ver/63882/client/park/source/server/carsclient/android/cars8_31/carsManager_new/res/layout/car_info_list_item.xml
+END
+discuss_activity.xml
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/project/!svn/ver/68575/client/park/source/server/carsclient/android/cars8_31/carsManager_new/res/layout/discuss_activity.xml
+END
+image_layout.xml
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/project/!svn/ver/38962/client/park/source/server/carsclient/android/cars8_31/carsManager_new/res/layout/image_layout.xml
+END
+home_main_layout.xml
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/project/!svn/ver/66555/client/park/source/server/carsclient/android/cars8_31/carsManager_new/res/layout/home_main_layout.xml
+END
+maintenance_detail_activity.xml
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/project/!svn/ver/55482/client/park/source/server/carsclient/android/cars8_31/carsManager_new/res/layout/maintenance_detail_activity.xml
+END
+member_activity.xml
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/project/!svn/ver/64834/client/park/source/server/carsclient/android/cars8_31/carsManager_new/res/layout/member_activity.xml
+END
+message_left_tab.xml
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/project/!svn/ver/47889/client/park/source/server/carsclient/android/cars8_31/carsManager_new/res/layout/message_left_tab.xml
+END
+webview_activity.xml
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/project/!svn/ver/47455/client/park/source/server/carsclient/android/cars8_31/carsManager_new/res/layout/webview_activity.xml
+END
+violation_detail_activity.xml
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/project/!svn/ver/47889/client/park/source/server/carsclient/android/cars8_31/carsManager_new/res/layout/violation_detail_activity.xml
+END
+myspinner_item.xml
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/project/!svn/ver/38962/client/park/source/server/carsclient/android/cars8_31/carsManager_new/res/layout/myspinner_item.xml
+END
+account_top_layout.xml
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/project/!svn/ver/50406/client/park/source/server/carsclient/android/cars8_31/carsManager_new/res/layout/account_top_layout.xml
+END
+magazine_list_item.xml
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/project/!svn/ver/47889/client/park/source/server/carsclient/android/cars8_31/carsManager_new/res/layout/magazine_list_item.xml
+END
+promotion_activity.xml
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/project/!svn/ver/74333/client/park/source/server/carsclient/android/cars8_31/carsManager_new/res/layout/promotion_activity.xml
+END
+account_detail_activity.xml
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/project/!svn/ver/47455/client/park/source/server/carsclient/android/cars8_31/carsManager_new/res/layout/account_detail_activity.xml
+END
+register_activity.xml
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/project/!svn/ver/47889/client/park/source/server/carsclient/android/cars8_31/carsManager_new/res/layout/register_activity.xml
+END
+account_record_activity.xml
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/project/!svn/ver/74398/client/park/source/server/carsclient/android/cars8_31/carsManager_new/res/layout/account_record_activity.xml
+END
+top_layout_spinner.xml
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/project/!svn/ver/50406/client/park/source/server/carsclient/android/cars8_31/carsManager_new/res/layout/top_layout_spinner.xml
+END
+promotion_item.xml
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/project/!svn/ver/47455/client/park/source/server/carsclient/android/cars8_31/carsManager_new/res/layout/promotion_item.xml
+END
+account_choose_car_activity.xml
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/project/!svn/ver/47455/client/park/source/server/carsclient/android/cars8_31/carsManager_new/res/layout/account_choose_car_activity.xml
+END
+message_tab_activity.xml
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/project/!svn/ver/58664/client/park/source/server/carsclient/android/cars8_31/carsManager_new/res/layout/message_tab_activity.xml
+END
+oil_total_activity.xml
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/project/!svn/ver/73478/client/park/source/server/carsclient/android/cars8_31/carsManager_new/res/layout/oil_total_activity.xml
+END
+car_info_detail_activity.xml
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/project/!svn/ver/47446/client/park/source/server/carsclient/android/cars8_31/carsManager_new/res/layout/car_info_detail_activity.xml
+END
+message_right_tab.xml
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/project/!svn/ver/47889/client/park/source/server/carsclient/android/cars8_31/carsManager_new/res/layout/message_right_tab.xml
+END
+car_info_detail_item.xml
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/project/!svn/ver/47446/client/park/source/server/carsclient/android/cars8_31/carsManager_new/res/layout/car_info_detail_item.xml
+END
+maintenance_activity.xml
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/project/!svn/ver/55482/client/park/source/server/carsclient/android/cars8_31/carsManager_new/res/layout/maintenance_activity.xml
+END
+car_info_update_activity.xml
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/project/!svn/ver/47446/client/park/source/server/carsclient/android/cars8_31/carsManager_new/res/layout/car_info_update_activity.xml
+END
+maintenance_item.xml
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/project/!svn/ver/55482/client/park/source/server/carsclient/android/cars8_31/carsManager_new/res/layout/maintenance_item.xml
+END
+update_activity.xml
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/project/!svn/ver/47455/client/park/source/server/carsclient/android/cars8_31/carsManager_new/res/layout/update_activity.xml
+END
+message_activity.xml
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/project/!svn/ver/57503/client/park/source/server/carsclient/android/cars8_31/carsManager_new/res/layout/message_activity.xml
+END
+account_tab_activity.xml
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/project/!svn/ver/58664/client/park/source/server/carsclient/android/cars8_31/carsManager_new/res/layout/account_tab_activity.xml
+END
+welcome_activity.xml
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/project/!svn/ver/66610/client/park/source/server/carsclient/android/cars8_31/carsManager_new/res/layout/welcome_activity.xml
+END
+car_type_item.xml
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/project/!svn/ver/48433/client/park/source/server/carsclient/android/cars8_31/carsManager_new/res/layout/car_type_item.xml
+END
+help_activity.xml
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/project/!svn/ver/57503/client/park/source/server/carsclient/android/cars8_31/carsManager_new/res/layout/help_activity.xml
+END
+car_info_title.xml
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/project/!svn/ver/47446/client/park/source/server/carsclient/android/cars8_31/carsManager_new/res/layout/car_info_title.xml
+END
+car_message_activity.xml
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/project/!svn/ver/47455/client/park/source/server/carsclient/android/cars8_31/carsManager_new/res/layout/car_message_activity.xml
+END
+home_acitivity.xml
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/project/!svn/ver/63878/client/park/source/server/carsclient/android/cars8_31/carsManager_new/res/layout/home_acitivity.xml
+END
+top_layout.xml
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/project/!svn/ver/46948/client/park/source/server/carsclient/android/cars8_31/carsManager_new/res/layout/top_layout.xml
+END
+maintenace_top_layout.xml
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/project/!svn/ver/54624/client/park/source/server/carsclient/android/cars8_31/carsManager_new/res/layout/maintenace_top_layout.xml
+END
+car_info_activity.xml
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/project/!svn/ver/47446/client/park/source/server/carsclient/android/cars8_31/carsManager_new/res/layout/car_info_activity.xml
+END

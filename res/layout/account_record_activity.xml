@@ -1,0 +1,570 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@drawable/bg"
+    android:orientation="vertical" >
+
+    <include
+        android:id="@+id/head"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        layout="@layout/top_layout_spinner" />
+
+    <ScrollView
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content" >
+
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical" >
+
+            <LinearLayout
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal"
+                android:background="@drawable/gray_bg"
+                android:orientation="vertical"
+                android:padding="0dip" >
+
+                <LinearLayout
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="vertical"
+                    android:padding="0dip" >
+
+                    <LinearLayout
+                        android:layout_width="fill_parent"
+                        android:layout_height="wrap_content"
+                        android:orientation="vertical" >
+
+                        <include
+                            android:layout_width="fill_parent"
+                            android:layout_height="wrap_content"
+                            android:layout_marginLeft="2dip"
+                            android:layout_marginRight="2dip"
+                            layout="@layout/oil_item_layout" />
+
+                        <!-- 第二个 -->
+
+                        <LinearLayout
+                            android:id="@+id/layout_8"
+                            android:layout_width="fill_parent"
+                            android:layout_height="wrap_content"
+                            android:layout_marginTop="10dip"
+                            android:gravity="center_vertical" >
+
+                            <LinearLayout
+                                android:layout_width="fill_parent"
+                                android:layout_height="wrap_content"
+                                android:layout_weight="6"
+                                android:gravity="right" >
+
+                                <TextView
+                                    android:layout_width="wrap_content"
+                                    android:layout_height="wrap_content"
+                                    android:gravity="right"
+                                    android:text="@string/account_person_cost_str"
+                                    android:textColor="@color/black"
+                                    android:textSize="17sp" />
+                            </LinearLayout>
+
+                            <LinearLayout
+                                android:layout_width="fill_parent"
+                                android:layout_height="wrap_content"
+                                android:layout_weight="3" >
+
+                                <EditText
+                                    android:id="@+id/laborcosts_edit"
+                                    android:layout_width="fill_parent"
+                                    android:layout_height="wrap_content"
+                                    android:layout_weight="1"
+                                    android:background="@drawable/violation04"
+                                    android:inputType="numberDecimal"
+                                    android:numeric="decimal"
+                                    android:paddingLeft="3dip"
+                                    android:singleLine="true" />
+
+                                <TextView
+                                    android:layout_width="fill_parent"
+                                    android:layout_height="wrap_content"
+                                    android:layout_marginLeft="10dip"
+                                    android:layout_marginRight="20dip"
+                                    android:layout_weight="2"
+                                    android:text="￥"
+                                    android:textColor="@color/message_read_title"
+                                    android:textSize="20sp" />
+                            </LinearLayout>
+                        </LinearLayout>
+                        <!-- 结束 -->
+
+
+                        <!-- 第二个 -->
+
+                        <LinearLayout
+                            android:id="@+id/layout_9"
+                            android:layout_width="fill_parent"
+                            android:layout_height="wrap_content"
+                            android:layout_marginTop="10dip"
+                            android:gravity="center_vertical" >
+
+                            <LinearLayout
+                                android:layout_width="fill_parent"
+                                android:layout_height="wrap_content"
+                                android:layout_weight="6"
+                                android:gravity="right" >
+
+                                <TextView
+                                    android:layout_width="wrap_content"
+                                    android:layout_height="wrap_content"
+                                    android:gravity="right"
+                                    android:text="@string/account_other_cost_str"
+                                    android:textColor="@color/black"
+                                    android:textSize="17sp" />
+                            </LinearLayout>
+
+                            <LinearLayout
+                                android:layout_width="fill_parent"
+                                android:layout_height="wrap_content"
+                                android:layout_weight="3" >
+
+                                <EditText
+                                    android:id="@+id/fittingcosts_edit"
+                                    android:layout_width="fill_parent"
+                                    android:layout_height="wrap_content"
+                                    android:layout_weight="1"
+                                    android:background="@drawable/violation04"
+                                    android:inputType="numberDecimal"
+                                    android:numeric="decimal"
+                                    android:paddingLeft="3dip"
+                                    android:singleLine="true" />
+
+                                <TextView
+                                    android:layout_width="fill_parent"
+                                    android:layout_height="wrap_content"
+                                    android:layout_marginLeft="10dip"
+                                    android:layout_marginRight="20dip"
+                                    android:layout_weight="2"
+                                    android:text="￥"
+                                    android:textColor="@color/message_read_title"
+                                    android:textSize="20sp" />
+                            </LinearLayout>
+                        </LinearLayout>
+                        <!-- 结束 -->
+
+
+                        <!-- 第二个 -->
+
+                        <LinearLayout
+                            android:id="@+id/layout_10"
+                            android:layout_width="fill_parent"
+                            android:layout_height="wrap_content"
+                            android:layout_marginTop="10dip"
+                            android:gravity="center_vertical" >
+
+                            <LinearLayout
+                                android:layout_width="fill_parent"
+                                android:layout_height="wrap_content"
+                                android:layout_weight="6"
+                                android:gravity="right" >
+
+                                <TextView
+                                    android:layout_width="wrap_content"
+                                    android:layout_height="wrap_content"
+                                    android:gravity="right"
+                                    android:text="@string/account_total_cost_str"
+                                    android:textColor="@color/black"
+                                    android:textSize="17sp" />
+                            </LinearLayout>
+
+                            <LinearLayout
+                                android:layout_width="fill_parent"
+                                android:layout_height="wrap_content"
+                                android:layout_weight="3" >
+
+                                <EditText
+                                    android:id="@+id/allprice_edit"
+                                    android:layout_width="fill_parent"
+                                    android:layout_height="wrap_content"
+                                    android:layout_weight="1"
+                                    android:background="@drawable/violation04"
+                                    android:inputType="numberDecimal"
+                                    android:numeric="decimal"
+                                    android:paddingLeft="3dip"
+                                    android:singleLine="true" />
+
+                                <TextView
+                                    android:layout_width="fill_parent"
+                                    android:layout_height="wrap_content"
+                                    android:layout_marginLeft="10dip"
+                                    android:layout_weight="2"
+                                    android:text="￥"
+                                    android:textColor="@color/message_read_title"
+                                    android:textSize="20sp" />
+                            </LinearLayout>
+                        </LinearLayout>
+                        <!-- 结束 -->
+
+                        <Button
+                            android:id="@+id/real_messsage_btn"
+                            android:layout_width="fill_parent"
+                            android:layout_height="wrap_content"
+                            android:layout_marginLeft="25dip"
+                            android:layout_marginRight="25dip"
+                            android:layout_marginTop="10dip"
+                            android:background="@drawable/set_btn"
+                            android:text="@string/account_real_message_str"
+                            android:textColor="@color/white"
+                            android:textSize="17sp" />
+
+                        <!-- 第一个 -->
+
+                        <LinearLayout
+                            android:id="@+id/layout_11"
+                            android:layout_width="fill_parent"
+                            android:layout_height="wrap_content"
+                            android:layout_marginTop="10dip"
+                            android:gravity="center_vertical" >
+
+                            <LinearLayout
+                                android:layout_width="fill_parent"
+                                android:layout_height="wrap_content"
+                                android:layout_weight="6"
+                                android:gravity="right" >
+
+                                <TextView
+                                    android:id="@+id/car_name"
+                                    android:layout_width="wrap_content"
+                                    android:layout_height="wrap_content"
+                                    android:gravity="right"
+                                    android:text="@string/account_total_road_str"
+                                    android:textColor="@color/black"
+                                    android:textSize="17sp" />
+                            </LinearLayout>
+
+                            <LinearLayout
+                                android:layout_width="fill_parent"
+                                android:layout_height="wrap_content"
+                                android:layout_weight="3" >
+
+                                <EditText
+                                    android:id="@+id/allmileage_edit"
+                                    android:layout_width="fill_parent"
+                                    android:layout_height="wrap_content"
+                                    android:layout_weight="1"
+                                    android:background="@drawable/violation04"
+                                    android:inputType="numberDecimal"
+                                    android:numeric="decimal"
+                                    android:paddingLeft="3dip"
+                                    android:singleLine="true" />
+
+                                <TextView
+                                    android:layout_width="fill_parent"
+                                    android:layout_height="wrap_content"
+                                    android:layout_marginLeft="10dip"
+                                    android:layout_marginRight="20dip"
+                                    android:layout_weight="2"
+                                    android:text="KM"
+                                    android:textColor="@color/message_read_title"
+                                    android:textSize="20sp" />
+                            </LinearLayout>
+                        </LinearLayout>
+                        <!-- 结束 -->
+
+
+                        <!-- 第一个 -->
+
+                        <LinearLayout
+                            android:id="@+id/layout_12"
+                            android:layout_width="fill_parent"
+                            android:layout_height="wrap_content"
+                            android:layout_marginTop="10dip"
+                            android:gravity="center_vertical" >
+
+                            <LinearLayout
+                                android:layout_width="fill_parent"
+                                android:layout_height="wrap_content"
+                                android:layout_weight="6"
+                                android:gravity="right" >
+
+                                <TextView
+                                    android:id="@+id/car_name"
+                                    android:layout_width="wrap_content"
+                                    android:layout_height="wrap_content"
+                                    android:gravity="right"
+                                    android:text="@string/account_other_message_str"
+                                    android:textColor="@color/black"
+                                    android:textSize="17sp" />
+                            </LinearLayout>
+
+                            <LinearLayout
+                                android:layout_width="fill_parent"
+                                android:layout_height="wrap_content"
+                                android:layout_weight="3" >
+
+                                <EditText
+                                    android:id="@+id/remark_edit"
+                                    android:layout_width="fill_parent"
+                                    android:layout_height="wrap_content"
+                                    android:layout_weight="1"
+                                    android:background="@drawable/violation04"
+                                    android:paddingLeft="3dip"
+                                    android:singleLine="true" />
+
+                                <TextView
+                                    android:layout_width="fill_parent"
+                                    android:layout_height="wrap_content"
+                                    android:layout_marginLeft="10dip"
+                                    android:layout_marginRight="20dip"
+                                    android:layout_weight="2"
+                                    android:text="￥"
+                                    android:textColor="@color/message_read_title"
+                                    android:textSize="20sp"
+                                    android:visibility="invisible" />
+                            </LinearLayout>
+                        </LinearLayout>
+                        <!-- 结束 -->
+
+
+                        <!-- 第一个 -->
+
+                        <LinearLayout
+                            android:id="@+id/layout_13"
+                            android:layout_width="fill_parent"
+                            android:layout_height="wrap_content"
+                            android:layout_marginTop="10dip"
+                            android:gravity="center_vertical" >
+
+                            <LinearLayout
+                                android:layout_width="fill_parent"
+                                android:layout_height="wrap_content"
+                                android:layout_weight="6"
+                                android:gravity="right" >
+
+                                <TextView
+                                    android:id="@+id/car_name"
+                                    android:layout_width="wrap_content"
+                                    android:layout_height="wrap_content"
+                                    android:gravity="right"
+                                    android:text="@string/account_address_str"
+                                    android:textColor="@color/black"
+                                    android:textSize="17sp" />
+                            </LinearLayout>
+
+                            <LinearLayout
+                                android:layout_width="fill_parent"
+                                android:layout_height="wrap_content"
+                                android:layout_weight="3" >
+
+                                <EditText
+                                    android:id="@+id/address_edit"
+                                    android:layout_width="fill_parent"
+                                    android:layout_height="wrap_content"
+                                    android:layout_weight="1"
+                                    android:background="@drawable/violation04"
+                                    android:paddingLeft="3dip"
+                                    android:singleLine="true" />
+
+                                <TextView
+                                    android:layout_width="fill_parent"
+                                    android:layout_height="wrap_content"
+                                    android:layout_marginLeft="10dip"
+                                    android:layout_marginRight="20dip"
+                                    android:layout_weight="2"
+                                    android:text="￥"
+                                    android:textColor="@color/message_read_title"
+                                    android:textSize="20sp"
+                                    android:visibility="invisible" />
+                            </LinearLayout>
+                        </LinearLayout>
+                        <!-- 结束 -->
+
+
+                        <!-- 第一个 -->
+
+                        <LinearLayout
+                            android:id="@+id/layout_14"
+                            android:layout_width="fill_parent"
+                            android:layout_height="wrap_content"
+                            android:layout_marginTop="10dip"
+                            android:gravity="center_vertical" >
+
+                            <LinearLayout
+                                android:layout_width="fill_parent"
+                                android:layout_height="wrap_content"
+                                android:layout_weight="6"
+                                android:gravity="right" >
+
+                                <TextView
+                                    android:id="@+id/car_name"
+                                    android:layout_width="wrap_content"
+                                    android:layout_height="wrap_content"
+                                    android:gravity="right"
+                                    android:text="@string/account_time_str"
+                                    android:textColor="@color/black"
+                                    android:textSize="17sp" />
+                            </LinearLayout>
+
+                            <LinearLayout
+                                android:layout_width="fill_parent"
+                                android:layout_height="wrap_content"
+                                android:layout_weight="3" >
+
+                                <EditText
+                                    android:id="@+id/pricetime_spinner"
+                                    android:layout_width="fill_parent"
+                                    android:layout_height="wrap_content"
+                                    android:layout_weight="1"
+                                    android:background="@drawable/spinner"
+                                    android:focusable="false"
+                                    android:paddingLeft="3dip"
+                                    android:singleLine="true" />
+
+                                <TextView
+                                    android:layout_width="fill_parent"
+                                    android:layout_height="wrap_content"
+                                    android:layout_marginLeft="10dip"
+                                    android:layout_marginRight="20dip"
+                                    android:layout_weight="2"
+                                    android:text="￥"
+                                    android:textColor="@color/message_read_title"
+                                    android:textSize="20sp"
+                                    android:visibility="invisible" />
+                            </LinearLayout>
+                        </LinearLayout>
+                        <!-- 结束 -->
+
+
+                        <!-- 第一个 -->
+
+                        <LinearLayout
+                            android:id="@+id/layout_15"
+                            android:layout_width="fill_parent"
+                            android:layout_height="wrap_content"
+                            android:layout_marginTop="10dip"
+                            android:gravity="center_vertical" >
+
+                            <LinearLayout
+                                android:layout_width="fill_parent"
+                                android:layout_height="wrap_content"
+                                android:layout_weight="6"
+                                android:gravity="right" >
+
+                                <TextView
+                                    android:id="@+id/car_name"
+                                    android:layout_width="wrap_content"
+                                    android:layout_height="wrap_content"
+                                    android:gravity="right"
+                                    android:text="@string/account_volidate_cost_str"
+                                    android:textColor="@color/black"
+                                    android:textSize="17sp" />
+                            </LinearLayout>
+
+                            <LinearLayout
+                                android:layout_width="fill_parent"
+                                android:layout_height="wrap_content"
+                                android:layout_weight="3" >
+
+                                <Spinner
+                                    android:id="@+id/accounttype_spinner"
+                                    android:layout_width="fill_parent"
+                                    android:layout_height="wrap_content"
+                                    android:layout_weight="1"
+                                    android:background="@drawable/spinner"
+                                    android:paddingLeft="3dip"
+                                    android:singleLine="true" />
+
+                                <TextView
+                                    android:layout_width="fill_parent"
+                                    android:layout_height="wrap_content"
+                                    android:layout_marginLeft="10dip"
+                                    android:layout_marginRight="20dip"
+                                    android:layout_weight="2"
+                                    android:text="￥"
+                                    android:textColor="@color/message_read_title"
+                                    android:textSize="20sp"
+                                    android:visibility="invisible" />
+                            </LinearLayout>
+                        </LinearLayout>
+                        <!-- 结束 -->
+
+
+                        <!-- 第一个 -->
+
+                        <LinearLayout
+                            android:id="@+id/layout_16"
+                            android:layout_width="fill_parent"
+                            android:layout_height="wrap_content"
+                            android:layout_marginTop="10dip"
+                            android:gravity="center_vertical" >
+
+                            <LinearLayout
+                                android:layout_width="fill_parent"
+                                android:layout_height="wrap_content"
+                                android:layout_weight="6"
+                                android:gravity="right" >
+
+                                <TextView
+                                    android:id="@+id/car_name"
+                                    android:layout_width="wrap_content"
+                                    android:layout_height="wrap_content"
+                                    android:gravity="right"
+                                    android:text="@string/account_cost_time_str"
+                                    android:textColor="@color/black"
+                                    android:textSize="17sp" />
+                            </LinearLayout>
+
+                            <LinearLayout
+                                android:layout_width="fill_parent"
+                                android:layout_height="wrap_content"
+                                android:layout_weight="3" >
+
+                                <EditText
+                                    android:id="@+id/pricetime_spinner"
+                                    android:layout_width="fill_parent"
+                                    android:layout_height="wrap_content"
+                                    android:layout_weight="1"
+                                    android:background="@drawable/c02"
+                                    android:paddingLeft="3dip"
+                                    android:singleLine="true" />
+
+                                <TextView
+                                    android:layout_width="fill_parent"
+                                    android:layout_height="wrap_content"
+                                    android:layout_marginLeft="10dip"
+                                    android:layout_marginRight="20dip"
+                                    android:layout_weight="2"
+                                    android:text="￥"
+                                    android:textColor="@color/message_read_title"
+                                    android:textSize="20sp"
+                                    android:visibility="invisible" />
+                            </LinearLayout>
+                        </LinearLayout>
+                        <!-- 结束 -->
+
+                    </LinearLayout>
+                </LinearLayout>
+            </LinearLayout>
+
+            <Button
+                android:id="@+id/submit"
+                style="@style/submit_style"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal"
+                android:layout_marginTop="5dip"
+                android:text="@string/save_btn_str" />
+            
+            <Button
+                android:id="@+id/delete"
+                style="@style/submit_style"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal"
+                android:layout_marginTop="5dip"
+                android:text="删除" />
+        </LinearLayout>
+    </ScrollView>
+
+</LinearLayout>

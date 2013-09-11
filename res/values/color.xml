@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="transparent_background">#50000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="black">#FF000000</color>
+    <color name="gray">#555555</color>
+    <color name="red">#FFFF0000</color>
+    <color name="bg_color">#FF1C232B</color>
+    <color name="download_text_color">#323232</color>
+    <color name="message_read_title">#FE8043</color>
+    <color name="message_read_content">#9AD1FD</color>
+    <color name="message_read_time">#999999</color>
+
+</resources>

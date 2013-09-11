@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/project/!svn/ver/57505/client/park/source/server/carsclient/android/cars8_31/carsManager_new/src/com/cars/simple/service/http
+END
+ConnectionLogic.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/project/!svn/ver/38962/client/park/source/server/carsclient/android/cars8_31/carsManager_new/src/com/cars/simple/service/http/ConnectionLogic.java
+END
+IStatusListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/project/!svn/ver/38962/client/park/source/server/carsclient/android/cars8_31/carsManager_new/src/com/cars/simple/service/http/IStatusListener.java
+END
+IHttpListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/project/!svn/ver/38962/client/park/source/server/carsclient/android/cars8_31/carsManager_new/src/com/cars/simple/service/http/IHttpListener.java
+END
+ConnectionTask.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/project/!svn/ver/57505/client/park/source/server/carsclient/android/cars8_31/carsManager_new/src/com/cars/simple/service/http/ConnectionTask.java
+END

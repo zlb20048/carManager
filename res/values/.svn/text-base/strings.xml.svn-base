@@ -1,0 +1,485 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<resources>
+
+    <string name="app_name">智行车管家</string>
+    <string name="back_btn_str">返回</string>
+    <string name="add_btn_str">添加</string>
+    <string name="update_btn_str">编辑</string>
+    <string name="need_text_str">*</string>
+    <string name="validate_check_str">验证码</string>
+    <string name="validate_check_error">请输入正确的验证码</string>
+    <string name="submit_str">查询</string>
+    <string name="no_data">暂没查询到数据</string>
+    <string name="save_btn_str">保存</string>
+    <string name="save_data_success">保存成功！</string>
+    <string name="welocome_car_title_str">您的车辆</string>
+    <string name="welocome_car_give_up_str">击败了</string>
+    <string name="welocome_car_py_str">位车友</string>
+    <string name="more_str">更多</string>
+    <string name="check_str">请选择</string>
+
+    <!-- 菜单文字 -->
+    <string name="cars_menu_1_str">注册登录</string>
+    <string name="cars_menu_2_str">设置</string>
+    <string name="cars_menu_3_str">版本更新</string>
+    <string name="cars_menu_4_str">意见反馈</string>
+    <string name="cars_menu_5_str">好友分享</string>
+    <string name="cars_menu_6_str">退出应用</string>
+    <string name="cars_menu_7_str">关于我们</string>
+
+    <!-- 主界面的文字 -->
+    <string name="cars_home_1_str">会员信息</string>
+    <string name="cars_home_2_str">花销统计</string>
+    <string name="cars_home_3_str">油耗统计</string>
+    <string name="cars_home_4_str">违章查询</string>
+    <string name="cars_home_5_str">爱车杂志</string>
+    <string name="cars_home_6_str">维修保养</string>
+    <string name="cars_home_7_str">优惠信息</string>
+    <string name="cars_home_8_str">会员活动</string>
+    <string name="cars_home_9_str">提醒信息</string>
+
+    <!-- 设置界面文字 -->
+    <string name="setting_title">设　置</string>
+    <string name="setting_1_str">用户登录</string>
+    <string name="setting_2_str">我的信息</string>
+    <string name="setting_3_str">在线升级</string>
+    <string name="setting_4_str">意见反馈</string>
+    <string name="setting_5_str">好友分享</string>
+    <string name="setting_6_str">使用帮助</string>
+    <string name="setting_7_str">注　销</string>
+    <string name="setting_8_str">修改密码</string>
+
+    <!-- 用户登录界面文字 -->
+    <string name="login_user_login">用户登录</string>
+    <string name="login_user_login_submit_st">登 录</string>
+    <string name="login_account_str">邮　箱：</string>
+    <string name="login_password_str">密　码：</string>
+    <string name="login_account_not_null">帐号不能为空！</string>
+    <string name="login_password_not_null">密码长度不能小于8位！</string>
+    <string name="login_sucess">登录成功！</string>
+    <string name="login_fail">登录失败！</string>
+    <string name="login_reset_str">确定注销吗？</string>
+
+    <!-- 忘记密码界面 -->
+    <string name="change_pwd_title_str">修改密码</string>
+    <string name="change_pwd_old_str">原始密码：</string>
+    <string name="change_pwd_new_str">新的密码：</string>
+    <string name="change_pwd_new_sure_str">确认密码：</string>
+    <string name="change_pwd_sucess_str">修改密码成功</string>
+    <string name="change_pwd_check_old_str">请输入原始密码！</string>
+    <string name="change_pwd_check_new_str">请输入8位新密码！</string>
+    <string name="change_pwd_check_sure_str">请输入8位确认密码！</string>
+    <string name="change_pwd_check_sure_and_new_str">新密码和确认密码不一致！</string>
+
+    <!-- 提示框 -->
+    <string name="tip_str">提示</string>
+    <string name="sure_str">确定</string>
+    <string name="cancle_str">取消</string>
+    <string name="sure_exit">确定要退出吗?</string>
+    <string name="delete_tip_str">确认删除吗？</string>
+    <string name="delete_success_str">刪除信息成功</string>
+
+    <!-- 分享文字 -->
+    <string name="share_str">好友分享：我给我们家爱车，请了个全天候免费的管家，试用期已过，觉得还行，就想推荐给你，你也领一个试试？登陆http://cgj.jtonline.cn/或搜索“智行车管家”。</string>
+
+    <!-- 意见反馈提示文字 -->
+    <string name="feed_back_str">欢迎您提出宝贵的意见和建议，您留下每个字都将用来改善我们的软件。</string>
+    <string name="feed_back_title_str">意见反馈</string>
+    <string name="feed_back_check_content_str">请输入意见反馈内容！</string>
+    <string name="feed_back_submit_success_str">提交意见反馈成功！</string>
+
+    <!-- 用户注册 -->
+    <string name="register_title_str">用户注册</string>
+    <string name="register_button_str">注 册</string>
+    <string name="register_account_str">邮　　箱：</string>
+    <string name="register_nick_name_str">用户昵称：</string>
+    <string name="register_psw_str">创建密码：</string>
+    <string name="register_re_psw_str">确认密码：</string>
+    <string name="register_check_account">请输入正确的邮箱账户！</string>
+    <string name="register_check_nick">请输入正确的昵称！</string>
+    <string name="register_check_p_to_rep">请保持两次输入的密码一致！</string>
+    <string name="register_success">注册成功！</string>
+
+    <!-- 我的信息 -->
+    <string name="car_message_title_str">我的车辆</string>
+    <string name="car_message_my_str">我的车辆：</string>
+    <string name="car_message_my_city">我的城市：</string>
+    <string name="car_message_my_1_city">我的城市</string>
+
+    <!-- 忘记密码界面 -->
+    <string name="reset_psw_str">忘记密码</string>
+    <string name="reset_button_str">发送重置密码</string>
+    <string name="reset_account_error_str">请输入正确的邮箱地址</string>
+    <string name="reset_psw_success_str">新密码已经发送到你邮箱，请注意查收！</string>
+
+    <!-- 网络方面的提示 -->
+    <string name="net_error">网络链接超时，请稍后重试！</string>
+    <string name="tips_str">提示</string>
+    <string name="net_work_request_str">正在进行网络请求</string>
+
+    <!-- 检测版本更新 -->
+    <string name="check_update_str">正在检测版本更新</string>
+
+    <!-- 江苏地区十三个地市 -->
+    <string-array name="citynamearray">
+        <item>南京</item>
+        <item>苏州</item>
+        <item>无锡</item>
+        <item>常州</item>
+        <item>镇江</item>
+        <item>扬州</item>
+        <item>泰州</item>
+        <item>南通</item>
+        <item>盐城</item>
+        <item>淮安</item>
+        <item>宿迁</item>
+        <item>连云港</item>
+        <item>徐州</item>
+    </string-array>
+    <string-array name="citycodearray">
+        <item>nj</item>
+        <item>sz</item>
+        <item>wx</item>
+        <item>cz</item>
+        <item>zj</item>
+        <item>yz</item>
+        <item>tz</item>
+        <item>nt</item>
+        <item>yc</item>
+        <item>ha</item>
+        <item>sq</item>
+        <item>lyg</item>
+        <item>xz</item>
+    </string-array>
+    <string-array name="cityarray">
+        <item>苏</item>
+    </string-array>
+    <string-array name="citynumarray">
+        <item>A</item>
+        <item>E</item>
+        <item>B</item>
+        <item>D</item>
+        <item>L</item>
+        <item>K</item>
+        <item>M</item>
+        <item>F</item>
+        <item>J</item>
+        <item>H</item>
+        <item>N</item>
+        <item>G</item>
+        <item>C</item>
+    </string-array>
+    <string-array name="typearray">
+        <item>全部</item>
+        <item>加油</item>
+        <item>美容</item>
+
+        <item>维修 </item>
+        <item>保养</item>
+        <item>保险</item>
+        <item>停车</item>
+        <item>通行</item>
+        <item>罚款</item>
+        <item>购置</item>
+        <item>规费</item>
+        <item>其他</item>
+    </string-array>
+    <string-array name="typeidarray">
+        <item>-2</item>
+        <item>1</item>
+        <item>2</item>
+
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+    </string-array>
+    <string-array name="typearray1">
+        <item>加油</item>
+        <item>美容</item>
+        <!-- <item>洗车</item> -->
+        <item>维修 </item>
+        <item>保养</item>
+        <item>保险</item>
+        <item>停车</item>
+        <item>通行</item>
+        <item>罚款</item>
+        <item>购置</item>
+        <item>规费</item>
+        <item>其他</item>
+    </string-array>
+    <string-array name="typeidarray1">
+        <item>1</item>
+        <item>2</item>
+        <!-- <item>3</item> -->
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+    </string-array>
+    <string-array name="datearray">
+        <item>最近一年</item>
+    </string-array>
+    <!-- 1,#93 2,#97 3,柴油 -->
+    <string-array name="oilarray">
+        <item>#93</item>
+        <item>#97</item>
+        <item>#柴油</item>
+    </string-array>
+    <string-array name="oilidarray">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+    </string-array>
+    <string-array name="photo_arry">
+        <item>相机拍摄</item>
+        <item>手机相册</item>
+    </string-array>
+    <string-array name="time_array">
+        <item>近1个月</item>
+        <item>近3个月</item>
+        <item>近6个月</item>
+        <item>近12个月</item>
+    </string-array>
+    <string-array name="more_array">
+        <item>车辆切换</item>
+        <item>历史</item>
+    </string-array>
+
+    <!-- 我的车辆界面文字 -->
+    <string name="save_city_car_success_str">保存个人信息成功</string>
+    <string name="save_city_car_loading_str">正在保存个人信息</string>
+
+    <!-- 提醒信息界面文字 -->
+    <string name="message_tip_str">提醒信息</string>
+    <string name="message_not_read_str">未读</string>
+    <string name="message_read_str">已读</string>
+    <string name="message_select_all">全选</string>
+    <string name="message_cancle_all">取消全选</string>
+    <string name="message_del">删除</string>
+    <string name="message_del_tip">请至少选择一项进行删除</string>
+
+    <!-- 违章信息查询 -->
+    <string name="violation_title_str">请填写车辆信息</string>
+    <string name="violation_car_str">选择车辆：</string>
+    <string name="violation_car_num_str">车牌：</string>
+    <string name="violation_car_engine_str">发动机编号：</string>
+    <string name="violation_car_validate_str">验证码：</string>
+    <string name="violation_car_result_str">查询结果</string>
+    <string name="violation_car_city_str">南京</string>
+    <string name="violation_car_choose_str">请选择车辆</string>
+    <string name="violation_car_time_str">时间：</string>
+    <string name="violation_car_address_str">地点：</string>
+    <string name="violation_car_action_str">行为：</string>
+    <string name="violation_car_match_str">扣分：</string>
+    <string name="violation_car_money_str">罚款：</string>
+    <string name="violation_car_error_title">违章查询</string>
+    <string name="violation_car_total_str">累计金额：</string>
+    <string name="violation_car_other_str">其他</string>
+
+    <!-- 车辆信息 -->
+    <string name="car_info_title_str">车辆信息</string>
+    <string name="car_info_all_str">所有车辆信息</string>
+    <string name="car_info_dele_success_str">删除车辆信息成功</string>
+    <string name="car_info_love_car_msg_str">您的爱车信息</string>
+    <string name="car_info_name_str">车辆名称：</string>
+    <string name="car_info_type_str">车型：</string>
+    <string name="car_info_num_str">车牌号码：</string>
+    <string name="car_info_engenerr_str">发动机号：</string>
+    <string name="car_info_engener_end_str">发动机号后6位</string>
+    <string name="car_info_top_str">车架号：</string>
+    <string name="car_info_reg_str">初次登记日期：</string>
+    <string name="car_info_end_str">初次保险日期：</string>
+    <string name="car_info_update_str">请填写爱车信息</string>
+    <string name="car_info_give_name_str">给您的爱车起个名字吧~</string>
+    <string name="car_info_message_str">如果以上品牌、系列、型号中没有符合您的车型，请填上您需要的车型，我们随后会调整，谢谢您的支持。</string>
+    <string name="car_info_add_str">新增车辆信息</string>
+    <string name="car_info_choose_type_str">选择品牌</string>
+    <string name="car_info_choose_x_str">选择系列</string>
+    <string name="car_info_choose_m_str">选择型号</string>
+    <string name="car_info_success">车辆新增成功！</string>
+    <string name="car_info_check_name_str">请输入爱车名称</string>
+    <string name="car_info_check_x_str">请选择车型</string>
+    <string name="car_info_check_n_str">请填写车牌</string>
+    <string name="car_info_check_eninerr_num">请输入6位发动机号</string>
+    <string name="car_info_reg_hint_str">年检提醒 </string>
+    <string name="car_info_end_hint_str">保险到期提醒</string>
+    <string name="car_info_submit_str">完 成</string>
+
+    <!-- 杂志 -->
+    <string name="magazine_title_str">车市行情</string>
+    <string name="magazine_tab_1_title_str">车市</string>
+    <string name="magazine_tab_2_title_str">车评</string>
+    <string name="magazine_tab_3_title_str">车途</string>
+    <string name="magazine_tab_4_title_str">车趣</string>
+
+    <!-- 促销优惠 -->
+    <string name="promotion_title_str">优惠信息</string>
+
+    <!-- 记账 -->
+    <string name="account_note_title_str">记账本</string>
+    <string name="account_total_str">费用统计</string>
+    <string name="account_water_str">流水账</string>
+    <string name="account_car_choose_str">选择车辆</string>
+    <string name="account_change_str">修改</string>
+    <string name="account_delete_str">删除</string>
+    <string name="account_bar_chart_str">柱状图</string>
+    <string name="account_avg_chart_str">费用统计</string>
+    <string name="account_line_chart_str">折线图</string>
+    <string name="account_week_str">按周</string>
+    <string name="account_month_str">按月</string>
+    <string name="account_choose_date_str">选择日期</string>
+    <string name="account_type_str">类型：</string>
+    <string name="account_cost_str">花费：</string>
+    <string name="account_oil_str">油价：</string>
+    <string name="account_oil_num_str">油号：</string>
+    <string name="account_oil_content_str">加油量：</string>
+    <string name="account_start_str">起始里程：</string>
+    <string name="account_end_str">结束里程：</string>
+    <string name="account_person_cost_str">人工费：</string>
+    <string name="account_other_cost_str">配件费：</string>
+    <string name="account_total_cost_str">总费用：</string>
+    <string name="account_address_str">地点：</string>
+    <string name="account_total_road_str">总里程：</string>
+    <string name="account_cost_time_str">缴费日期：</string>
+    <string name="account_other_message_str">备  注：</string>
+    <string name="account_volidate_cost_str">规费名称：</string>
+    <string name="account_time_str">日期：</string>
+    <string name="account_real_message_str">明细</string>
+    <string name="account_edit_str">添加花销</string>
+    <string name="account_add_cost_str">添加花费</string>
+    <string name="account_all_str">总计：￥</string>
+    <string name="account_update_success_str">花费操作成功！</string>
+    <string name="account_delete_success_str">删除成功！</string>
+    <string name="account_detail_title_str">添加明细</string>
+    <string name="account_check_start_str">起始里程不能为空！</string>
+    <string name="account_check_end_str">结束里程不能为空！</string>
+    <string name="account_check_start_end_str">结束里程要大于起始里程！</string>
+    <string name="account_wash_str">洗车</string>
+    <string name="account_photo_str">相片</string>
+
+    <!-- 油耗统计 -->
+    <string name="oil_cost_title_str">油耗统计</string>
+    <string name="oil_cost_re_str">最近油耗</string>
+    <string name="oil_cost_av_str">平均油耗</string>
+
+    <!-- 商家点评 -->
+    <string name="discuss_bus_str">商家：</string>
+    <string name="discuss_price_str">价格：</string>
+    <string name="discuss_service_str">服务：</string>
+    <string name="discuss_environment_str">环境：</string>
+    <string name="discuss_talk_str">点评：</string>
+    <string name="discuss_submit_str">提交点评</string>
+    <string name="discuss_submit_success_str">提交点评成功！</string>
+
+    <!-- 维修保养 -->
+    <string name="maintenance_title_str">保养</string>
+    <string name="maintenance_str">保</string>
+    <string name="machine_title_str">维修</string>
+    <string name="avg_price_str">平均价格</string>
+    <string name="spe_shop_str">特约商户</string>
+    <string name="sus_shop_str">推荐商户</string>
+    <string name="sugesst_shop_str">车管家推荐商家</string>
+    <string name="car_spe_shop_str">车管家特约商家</string>
+
+    <!-- 使用帮助 -->
+    <string name="help_title_1_str">版本说明</string>
+    <string name="help_title_2_str">本产品能做什么？</string>
+    <string name="help_title_3_str">操作特性</string>
+    <string name="help_title_4_str">操作说明</string>
+    <string name="help_title_5_str">资费说明</string>
+    <string name="help_title_6_str">数据保密性</string>
+    <string name="help_title_7_str">终端支持</string>
+    <string name="help_tip_1_str">特色功能如下：</string>
+    <string name="help_content_1_str">       本软件为Android 1.5以上版本（触屏）设计，支持系统原生Menu键/返回键操作。       此版本使用于Android操作系统手机，如在其他品牌或型号手机上使用，对于出现的任何问题，本公司不承担责任。本软件由南京城市智能交通有限公司开发，非经公司或公司授权开发并正式发布的其它任何由本软件衍生的软件均属非法，下载、安装、使用此类软件，将可能导致不可预知的风险，由此产生的一切法律责任与纠纷一概与南京城市智能交通有限公司无关。</string>
+    <string name="help_content_2_str">       智行车管家是南京城市智能交通有限公司开发的“智行”系列产品，为用户提供随手记账、费用统计、油耗统计、违章查询等工具；汽车维修保养方面的专业指导；买车养车方面的实时资讯；以及用车过程中的提醒和优惠；做车主身边贴心、放心、专心的汽车管家。</string>
+    <string name="help_content_3_str">1、车辆管理：添加、编辑、删除您的车辆信息，设置您的爱车，我们会将您的爱车使用情况进行全国大比拼；\n
+2、记账：随时随地记录您的涉车消费，手动、拍照让您随心记；\n
+3、会员信息：登录、修改、注销会员信息，可以通过意见反馈和我们进行交流，可以通过用户分享与朋友讨论下软件或用车情况，如果您是第一次使用类似软件，请先阅读使用帮助；\n
+4、花销统计：图标的形式展现您的费用统计和流水账，让您对用车过程中的消费进行宏观的和详细的查询，还可以比较同车型或同城车主的消费统计；\n
+5、油耗统计：图标的形式展现您的油耗统计，您可以查看不同时期车辆的油耗，还可以比较同车型或同城车主的油耗统计；\n
+6、违章查询：违章信息，随时查询。\n
+7、提醒信息：年检、保险等到期提醒，季节、天气等用车提醒，路况、交通等驾驶提醒，优惠、互动等活动提醒；\n
+8、维修保养：汽车保养之家，提供最准确最贴心最省心的养护信息；\n
+9、优惠信息：车管家特殊服务线下服务支持，为您提供特色的本地涉车服务，保养维修配件以及汽车其他产品的优惠信息，为您打造口袋里的电子商城；\n
+10、爱车杂志：车市、车评、车途、车趣4个栏目，让您了解最新的车市行情、车展资讯、用车秘籍和车辆趣闻。\n</string>
+    <string name="help_content_4_str">      简洁而漂亮的设计；无广告无注册无收费纯绿色软件；Android 1.5以上固件版本支持多点触控；多种网络连接方式：CMNET、Wi-Fi连接。</string>
+    <string name="help_content_5_str">      进入首页后，可以查看优惠信息和爱车杂志，其它栏目需要注册会员信息。注册会员成功后，首先进入车辆管理（左上角的汽车图标）完善您的车辆信息。恭喜您添加车辆成功后，您就可以进入添加花费（右上角的铅笔图标），记录您的第一笔账单。</string>
+    <string name="help_content_6_str">1、车辆管理 \n
+
+点击“添加”，进入新增车辆，填写车辆的相关信息，并给您的爱车起一个名字，方便您确认车辆，添加车辆数量不限。请填写发动机号以及初次登记日期，方便使用违章查询和保险到期提醒业务。
+
+完善车辆信息后，可在车辆信息页面中对车辆信息进行管理，多辆车的会员可通过车辆昵称前的标志对默认车辆进行标识。\n
+
+2、添加花费\n
+
+点击右上角，可设置车辆，根据类型选择账单类型，完善账单内容后请选择账单日期。如果时间紧任务重，请使用手机相机进行拍照，以供日后记账或查询。点击保存后，请对商家进行点评，点评提交成功后，我们会给您的帐户发放积分，我们针对会员积分建立积分商城，可根据分值进行免费兑换。人人为我，我为人人，共建社会主义大家庭。\n
+
+3、会员信息\n
+
+认领您的专属管家：）。\n
+
+4、花销统计\n
+
+根据您的账单情况，我们设计了图标供您查询，您可根据图标下的选项进行各种查询；点击费用统计/流水账切换，您可以对单笔账单进行详细查询。\n
+
+5、油耗统计\n
+
+同花销统计，您懂的：）。\n
+
+6、违章查询\n
+
+这些违章，元芳，你怎么看？\n
+
+7、提醒信息\n
+
+请保存好提醒信息中的活动凭证，以便参加活动时验证。\n
+
+8、维修保养\n
+
+你还在为保养而犯愁，车管家为您提供最准确的保养信息和价格，并为您提供最值得信赖的本地商家。\n
+
+9、优惠信息\n
+
+口袋里的跳蚤市场，有时间逛逛，没时间更要逛逛：）。\n
+
+10、爱车杂志\n
+
+保持良好的驾驶习惯，请勿在驾驶中或等红灯的时间阅读本杂志。\n</string>
+    <string name="help_content_7_str">     本软件的下载和使用均为免费，下载和使用过程中产生的流量信息发送费用由当地运营商收取，各地区的计费标准可不同，详情可咨询当地运营商了解，推荐使用包月的流量套餐</string>
+    <string name="help_content_8_str">     本软件不会收集您的个人信息，所有的手机对本产品都是匿名的，本公司及其他人均无法获知，请放心使用。</string>
+    <string name="help_content_9_str">     主要支持分辨率为320×480、360×640、480×800和480×854的Android1.5及1.5以上的操作系统的手机。</string>
+	
+    <string name="about_str">  简介 \n
+
+智行系列手机客户端应用是由南京城市智能交通有限公司（简称"智能交通公司"）研究开发的，公司于2010年12月8日成立，注册资本1亿元人民币，2011年计划投资3亿元人民币建设南京城市智能交通平台。 智能交通公司致力于成为全国一流的车联网运营服务商，提供全面的城市智能交通平台建设与运营服务。城市智能交通平台将开发出城市蕴藏丰富的"涉车信息资源"，并对采集到的海量交通信息进行加工、整理、融合，为政府、企事业单位和公众提供包括交通管理、治安管理、车辆保险、缴费、停车、环保监测、车辆维护、不停车收费、出行诱导、涉车消费等在内的服务。
+n
+
+联系我们\n
+
+邮箱: pant@njits.com.cn\n 
+
+电话：025-84356666-1142\n
+
+传真：025-58866405\n
+
+网址：http://www.jtonline.cn\n
+
+地址：南京市栖霞区马群大道10号\n
+
+邮编：210049
+        
+    </string>
+    
+    <string name="url_str">http://cgj.jtonline.cn/</string>
+</resources>

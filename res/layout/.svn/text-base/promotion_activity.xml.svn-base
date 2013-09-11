@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res/com.cars.simple"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@drawable/bg"
+    android:orientation="vertical" >
+
+    <include
+        android:id="@+id/head"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        layout="@layout/top_layout" />
+
+    <FrameLayout
+        android:id="@+id/framelayout"
+        android:layout_width="fill_parent"
+        android:layout_height="240dip"
+        android:background="#ffffff" >
+
+        <com.cars.simple.widget.ViewFlow
+            android:id="@+id/viewflow"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent" >
+        </com.cars.simple.widget.ViewFlow>
+    </FrameLayout>
+
+    <LinearLayout
+        android:id="@+id/circle_layout"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/ad_bg"
+        android:gravity="center" >
+
+        <com.cars.simple.widget.CircleFlowIndicator
+            android:id="@+id/viewflowindic"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            app:activeColor="#ff0000"
+            app:activeDrawable="@drawable/pointsmall_select"
+            app:activeType="fill"
+            app:circleSeparation="17dip"
+            app:inactiveColor="#ffffff"
+            app:inactiveDrawable="@drawable/pointsmall"
+            app:inactiveType="fill"
+            android:paddingBottom="5dip"
+            android:paddingRight="5dip"
+            app:radius="3dip" >
+        </com.cars.simple.widget.CircleFlowIndicator>
+    </LinearLayout>
+
+    <ListView
+        android:id="@+id/list"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:cacheColorHint="#00000000"
+        android:clickable="true"
+        android:fadingEdge="none"
+        android:footerDividersEnabled="false" >
+    </ListView>
+
+</LinearLayout>

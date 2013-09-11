@@ -1,0 +1,257 @@
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/project/!svn/ver/75085/client/park/source/server/carsclient/android/cars8_31/carsManager_new/src/com/cars/simple/activity
+END
+HelpActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/project/!svn/ver/57087/client/park/source/server/carsclient/android/cars8_31/carsManager_new/src/com/cars/simple/activity/HelpActivity.java
+END
+DiscussActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/project/!svn/ver/68554/client/park/source/server/carsclient/android/cars8_31/carsManager_new/src/com/cars/simple/activity/DiscussActivity.java
+END
+AccountDetailActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/project/!svn/ver/38962/client/park/source/server/carsclient/android/cars8_31/carsManager_new/src/com/cars/simple/activity/AccountDetailActivity.java
+END
+AccountRecordActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/project/!svn/ver/75429/client/park/source/server/carsclient/android/cars8_31/carsManager_new/src/com/cars/simple/activity/AccountRecordActivity.java
+END
+MessageReadActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/project/!svn/ver/68444/client/park/source/server/carsclient/android/cars8_31/carsManager_new/src/com/cars/simple/activity/MessageReadActivity.java
+END
+MaintenanceShopDetailActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/svn/project/!svn/ver/57087/client/park/source/server/carsclient/android/cars8_31/carsManager_new/src/com/cars/simple/activity/MaintenanceShopDetailActivity.java
+END
+MemberActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/project/!svn/ver/68730/client/park/source/server/carsclient/android/cars8_31/carsManager_new/src/com/cars/simple/activity/MemberActivity.java
+END
+ViolationDetailActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/project/!svn/ver/48435/client/park/source/server/carsclient/android/cars8_31/carsManager_new/src/com/cars/simple/activity/ViolationDetailActivity.java
+END
+MagazineActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/project/!svn/ver/68444/client/park/source/server/carsclient/android/cars8_31/carsManager_new/src/com/cars/simple/activity/MagazineActivity.java
+END
+BBSActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/project/!svn/ver/38962/client/park/source/server/carsclient/android/cars8_31/carsManager_new/src/com/cars/simple/activity/BBSActivity.java
+END
+OilActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/project/!svn/ver/74388/client/park/source/server/carsclient/android/cars8_31/carsManager_new/src/com/cars/simple/activity/OilActivity.java
+END
+AccountChooseCarActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/svn/project/!svn/ver/38962/client/park/source/server/carsclient/android/cars8_31/carsManager_new/src/com/cars/simple/activity/AccountChooseCarActivity.java
+END
+MessageTabActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/project/!svn/ver/38962/client/park/source/server/carsclient/android/cars8_31/carsManager_new/src/com/cars/simple/activity/MessageTabActivity.java
+END
+ChangePwdActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/project/!svn/ver/70056/client/park/source/server/carsclient/android/cars8_31/carsManager_new/src/com/cars/simple/activity/ChangePwdActivity.java
+END
+LoginActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/project/!svn/ver/74334/client/park/source/server/carsclient/android/cars8_31/carsManager_new/src/com/cars/simple/activity/LoginActivity.java
+END
+MaintenanceSpeDetailActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/svn/project/!svn/ver/57505/client/park/source/server/carsclient/android/cars8_31/carsManager_new/src/com/cars/simple/activity/MaintenanceSpeDetailActivity.java
+END
+SearchResultActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/project/!svn/ver/38962/client/park/source/server/carsclient/android/cars8_31/carsManager_new/src/com/cars/simple/activity/SearchResultActivity.java
+END
+FeedBackActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/project/!svn/ver/53465/client/park/source/server/carsclient/android/cars8_31/carsManager_new/src/com/cars/simple/activity/FeedBackActivity.java
+END
+ViolationActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/project/!svn/ver/68686/client/park/source/server/carsclient/android/cars8_31/carsManager_new/src/com/cars/simple/activity/ViolationActivity.java
+END
+MaintenanceDetailActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/project/!svn/ver/57505/client/park/source/server/carsclient/android/cars8_31/carsManager_new/src/com/cars/simple/activity/MaintenanceDetailActivity.java
+END
+PromotionActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/project/!svn/ver/68444/client/park/source/server/carsclient/android/cars8_31/carsManager_new/src/com/cars/simple/activity/PromotionActivity.java
+END
+RegisterActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/project/!svn/ver/57087/client/park/source/server/carsclient/android/cars8_31/carsManager_new/src/com/cars/simple/activity/RegisterActivity.java
+END
+PromotionListActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/project/!svn/ver/74447/client/park/source/server/carsclient/android/cars8_31/carsManager_new/src/com/cars/simple/activity/PromotionListActivity.java
+END
+MagazineTabActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/project/!svn/ver/47891/client/park/source/server/carsclient/android/cars8_31/carsManager_new/src/com/cars/simple/activity/MagazineTabActivity.java
+END
+WebViewActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/project/!svn/ver/38962/client/park/source/server/carsclient/android/cars8_31/carsManager_new/src/com/cars/simple/activity/WebViewActivity.java
+END
+MessageDetailActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/project/!svn/ver/57505/client/park/source/server/carsclient/android/cars8_31/carsManager_new/src/com/cars/simple/activity/MessageDetailActivity.java
+END
+AccountTotalActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/project/!svn/ver/73838/client/park/source/server/carsclient/android/cars8_31/carsManager_new/src/com/cars/simple/activity/AccountTotalActivity.java
+END
+SettingAcitivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/project/!svn/ver/73288/client/park/source/server/carsclient/android/cars8_31/carsManager_new/src/com/cars/simple/activity/SettingAcitivity.java
+END
+CarInfoDetailActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/project/!svn/ver/68444/client/park/source/server/carsclient/android/cars8_31/carsManager_new/src/com/cars/simple/activity/CarInfoDetailActivity.java
+END
+CarMessageActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/project/!svn/ver/59825/client/park/source/server/carsclient/android/cars8_31/carsManager_new/src/com/cars/simple/activity/CarMessageActivity.java
+END
+MaintenanceActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/project/!svn/ver/74389/client/park/source/server/carsclient/android/cars8_31/carsManager_new/src/com/cars/simple/activity/MaintenanceActivity.java
+END
+BaseActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/project/!svn/ver/68685/client/park/source/server/carsclient/android/cars8_31/carsManager_new/src/com/cars/simple/activity/BaseActivity.java
+END
+AboutActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/project/!svn/ver/63878/client/park/source/server/carsclient/android/cars8_31/carsManager_new/src/com/cars/simple/activity/AboutActivity.java
+END
+CarInfoUpdateActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/project/!svn/ver/70786/client/park/source/server/carsclient/android/cars8_31/carsManager_new/src/com/cars/simple/activity/CarInfoUpdateActivity.java
+END
+AccountWaterActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/project/!svn/ver/75085/client/park/source/server/carsclient/android/cars8_31/carsManager_new/src/com/cars/simple/activity/AccountWaterActivity.java
+END
+UpdateActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/project/!svn/ver/38962/client/park/source/server/carsclient/android/cars8_31/carsManager_new/src/com/cars/simple/activity/UpdateActivity.java
+END
+AccountTabActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/project/!svn/ver/50407/client/park/source/server/carsclient/android/cars8_31/carsManager_new/src/com/cars/simple/activity/AccountTabActivity.java
+END
+HomeAcitivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/project/!svn/ver/66589/client/park/source/server/carsclient/android/cars8_31/carsManager_new/src/com/cars/simple/activity/HomeAcitivity.java
+END
+ResetPswActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/project/!svn/ver/57087/client/park/source/server/carsclient/android/cars8_31/carsManager_new/src/com/cars/simple/activity/ResetPswActivity.java
+END
+WelcomeActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/project/!svn/ver/74334/client/park/source/server/carsclient/android/cars8_31/carsManager_new/src/com/cars/simple/activity/WelcomeActivity.java
+END
+BBSTabActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/project/!svn/ver/38962/client/park/source/server/carsclient/android/cars8_31/carsManager_new/src/com/cars/simple/activity/BBSTabActivity.java
+END
+CarInfoActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/project/!svn/ver/68444/client/park/source/server/carsclient/android/cars8_31/carsManager_new/src/com/cars/simple/activity/CarInfoActivity.java
+END
